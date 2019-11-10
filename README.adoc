@@ -1,0 +1,8 @@
+= Beverage Time Tracker
+
+A Javascript application for tracking prepared beverage time in an office using Javascript ES6, LocalStorage, Bootstrap4, and Jquery.
+
+==== Usage
+
+When someone clicks to a beverage, a new time is being recorded for it to display when it is prepared
+and the previous record will be displayed with strikethrough style.
