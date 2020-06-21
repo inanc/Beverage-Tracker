@@ -1,6 +1,6 @@
 = Beverage Time Tracker
 
-A Javascript application for tracking prepared beverage time in an office using Javascript ES6, LocalStorage, Bootstrap4, and Jquery.
+A Javascript application for tracking last prepared beverage time in an office using Javascript ES6, LocalStorage, Bootstrap4, and Jquery.
 
 ==== Usage
 
@@ -10,3 +10,5 @@ and the previous record will be displayed with strikethrough style.
 
 ==== Demo
 Try on:  https://embed.plnkr.co/WfVwXRc9OQ4xS5dX4EO7/
+
+image::img/file.png[]
