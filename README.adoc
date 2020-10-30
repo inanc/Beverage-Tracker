@@ -4,7 +4,7 @@ A Javascript application for tracking the last prepared beverage time in an offi
 
 ==== Usage
 
-When someone clicks to a beverage, a new time is recorded to display when it is prepared and the previous record will be displayed with strikethrough style.
+When someone clicks to a beverage, a new time is recorded to display when it is prepared and the previous record will be displayed with +++<del>+++strikethrough+++</del>+++ style.Time records will be deleted daily.
 
 
 
